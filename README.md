@@ -29,7 +29,7 @@ This script allows you to generate blog content using LLama, a powerful language
 
 ## Example
 Here's an example of generating a blog post:
-![Example](example.png)
+![Example](Screenshot (4).png)
 
 ## Credits
 - **LLama**: [LLama GitHub Repository](https://github.com/LLamaSci/LLAMA)
