@@ -32,7 +32,7 @@ Here's an example of generating a blog post:
 ![Example](Screenshot (4).png)
 
 ## Credits
-- **LLama**: [LLama GitHub Repository](https://github.com/LLamaSci/LLAMA)
+- **LLama**: [LLama GitHub Repository](https://github.com/meta-llama/llama3)
 - **Streamlit**: [Streamlit Documentation](https://docs.streamlit.io/)
 
 ## License
